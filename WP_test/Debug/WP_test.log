@@ -1,0 +1,7 @@
+﻿  cApp.cpp
+  cMain.cpp
+C:\Users\Chenz\source\repos\WP_test\WP_test\puzzleSolver.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+C:\Users\Chenz\source\repos\WP_test\WP_test\cMain.cpp(152,20): warning C4018: '<': signed/unsigned mismatch
+  memoryUtils.h
+  Generating Code...
+  WP_test.vcxproj -> C:\Users\Chenz\source\repos\WP_test\Debug\WP_test.exe
